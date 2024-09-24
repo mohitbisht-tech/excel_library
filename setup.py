@@ -1,17 +1,3 @@
-# from setuptools import setup, find_packages
-
-# setup(
-#     name='excel_library',  # Library ka naam
-#     version='0.1',  # Version number
-#     packages=find_packages(),  # Automatically packages ko dhoondta hai
-#     description='A simple library for Excel operations',  # Short description
-#     url='https://github.com/mohitbisht-tech/excel_library',  # GitHub repository URL
-#     author='Mohit Bisht',  # Tumhara naam
-#     author_email='m2079b@gmail.com',  # Tumhara email
-#     install_requires=[],  # Dependencies agar koi hai to add karo
-# )
-
-
 from setuptools import setup, find_packages
 
 setup(
